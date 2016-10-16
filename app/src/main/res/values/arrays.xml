@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Kamera">
+        <item>Canon 60D</item>
+        <item>Nikon 600</item>
+        <item>GoPro</item>
+        <item>Bpro</item>
+        <item>Xiaomi</item>
+        <item>Samsung Mirrorles</item>
+    </string-array>
+</resources>
